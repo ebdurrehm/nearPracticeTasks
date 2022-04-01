@@ -8,4 +8,6 @@ This repository includes a complete project structure for AssemblyScript contrac
 
 
 
-## Solution for second Practice
+## Solution for second practice first  task
+
+![first task](https://github.com/ebdurrehm/nearPracticeTasks/blob/main/solution_img/practice2.png)
