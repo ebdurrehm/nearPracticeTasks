@@ -10,10 +10,10 @@ This repo contains near-protocol tasks for www.patika.dev course
   ___
   
   
-   -Taks  2
+  -Taks  2
   ![task 2](https://github.com/ebdurrehm/nearPracticeTasks/blob/main/solution_img/task2.png)
   
   ___
   
-   -Taks 3
+  -Taks 3
   ![task 3](https://github.com/ebdurrehm/nearPracticeTasks/blob/main/solution_img/task3.png)
