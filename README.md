@@ -18,6 +18,9 @@ This repo contains near-protocol tasks for www.patika.dev course
   -Task 3
   ![task 3](https://github.com/ebdurrehm/nearPracticeTasks/blob/main/solution_img/task3.png)
 
+-Task 4
+  ![task 3](https://github.com/ebdurrehm/nearPracticeTasks/blob/main/solution_img/task4.png)
+
 
 
 ### All of the channges of the tasks were placed on the commit history.
