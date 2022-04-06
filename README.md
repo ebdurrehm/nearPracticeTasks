@@ -21,6 +21,7 @@ This repo contains near-protocol tasks for www.patika.dev course
 -Task 4
   ![task 3](https://github.com/ebdurrehm/nearPracticeTasks/blob/main/solution_img/task4.png)
 
-
+-museum task
+[the link of the certificate](https://near.academy/certificate/ebdurrehm)
 
 ### All of the channges of the tasks were placed on the commit history.
